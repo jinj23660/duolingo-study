@@ -124,6 +124,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#what-actually-happened" id="toc-what-actually-happened" class="nav-link active" data-scroll-target="#what-actually-happened">What Actually Happened?</a></li>
   <li><a href="#xp-results" id="toc-xp-results" class="nav-link" data-scroll-target="#xp-results">XP Results</a></li>
   <li><a href="#weekly-engagement" id="toc-weekly-engagement" class="nav-link" data-scroll-target="#weekly-engagement">Weekly Engagement</a></li>
+  <li><a href="#how-study-style-affects-your-learning-experience" id="toc-how-study-style-affects-your-learning-experience" class="nav-link" data-scroll-target="#how-study-style-affects-your-learning-experience">How Study Style Affects Your Learning Experience？</a></li>
   <li><a href="#test-results" id="toc-test-results" class="nav-link" data-scroll-target="#test-results">Test Results</a>
   <ul class="collapse">
   <li><a href="#overall" id="toc-overall" class="nav-link" data-scroll-target="#overall">Overall</a></li>
@@ -188,6 +189,16 @@ The <span style="color:#E67E22; font-weight:600;">massed group</span> logged mor
 <p>Study behavior changed over time.</p>
 <p><img src="images/fig4_weeklyengagement.png" class="img-fluid" style="width:80.0%"></p>
 <p>A good study routine needs to be sustainable, not just effective on a single day.</p>
+</section>
+<section id="how-study-style-affects-your-learning-experience" class="level2">
+<h2 class="anchored" data-anchor-id="how-study-style-affects-your-learning-experience">How Study Style Affects Your Learning Experience？</h2>
+<ul>
+<li>
+The <span style="color:#2E86DE; font-weight:600;">spaced group</span> consistently report a better overall learning experience than the <span style="color:#E67E22; font-weight:600;">massed group</span>
+</li>
+</ul>
+<p>Learners report higher concentration, confidence, enjoyment, and motivation, while also perceiving lower difficulty.</p>
+<p><img src="images/fig6_Learning Experience.png" class="img-fluid" style="width:80.0%"></p>
 </section>
 <section id="test-results" class="level2">
 <h2 class="anchored" data-anchor-id="test-results">Test Results</h2>
@@ -328,7 +339,7 @@ Short repeated practice may support vocabulary learning
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/jinj23660\.github\.io\/duolingo-study\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
