@@ -1,0 +1,90 @@
+---
+title: "Results"
+format: html
+---
+
+## What Actually Happened?
+
+The schedules worked differently in practice.
+
+<ul>
+<li>The <span style="color:#2E86DE; font-weight:600;">spaced group</span> studied more frequently</li>
+<li>The <span style="color:#E67E22; font-weight:600;">massed group</span> logged more total study time</li>
+</ul>
+
+![](images/fig2_stuydtime.png){width=80%}
+
+Because total study time was not perfectly balanced, the results should be interpreted as **descriptive patterns**, not a strict test of spacing alone.
+
+
+
+## XP Results
+
+XP told two different stories.
+
+<ul>
+<li><span style="color:#E67E22; font-weight:600;">Massed</span> shows higher XP per session</li>
+<li><span style="color:#2E86DE; font-weight:600;">Spaced</span> shows higher XP per minute</li>
+</ul>
+
+![](images/fig3_xp.png){width=80%}
+
+XP reflects app activity, not language proficiency.
+
+
+## Weekly Engagement
+
+Study behavior changed over time.
+
+![](images/fig4_weeklyengagement.png){width=80%}
+
+A good study routine needs to be sustainable, not just effective on a single day.
+
+
+## Test Results
+
+Participants completed a Swedish proficiency test with four sections:
+
+- Grammar I  
+- Grammar II  
+- Vocabulary  
+- Reading  
+
+### Overall
+
+- Highest performance: **Reading (57.2%)**
+- Overall mean: **49.3%**
+
+
+
+### By Group
+
+<ul>
+<li>The <span style="color:#2E86DE; font-weight:600;">spaced group</span> outperformed the <span style="color:#E67E22; font-weight:600;">massed group</span> across all dimensions</li>
+<li>The advantage was especially strong in vocabulary</li>
+</ul>
+
+![](images/fig5_testperformance.png){width=80%}
+
+
+
+## Summary
+
+- Spaced learning showed a consistent advantage  
+- The largest effect appeared in vocabulary  
+- Results are descriptive, with individual differences  
+
+
+<div class="highlight">
+
+<strong>![](images/fig8_Duo.png){width=40px} Key Take Away:</strong>
+
+<ul>
+<li>Study frequency matters</li>
+<li>Longer sessions produce more XP per session</li>
+<li>XP is not the same as learning</li>
+<li>Multiple metrics give a better picture</li>
+<li>Short repeated practice may support vocabulary learning</li>
+</ul>
+
+</div>

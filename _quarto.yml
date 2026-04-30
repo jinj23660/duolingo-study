@@ -1,0 +1,26 @@
+project:
+  type: website
+
+website:
+  title: "![](images/fig7_Duo.png){width=40px}Learn Swedish in Duolingo"
+  
+  navbar:
+    left:
+      - text: Home
+        file: index.qmd
+      - text: Results
+        file: results.qmd
+      - text: About
+        file: about.qmd
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+    toc-location: right
+    toc-title: "On this page"
+    smooth-scroll: true
+

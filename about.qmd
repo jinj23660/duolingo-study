@@ -1,0 +1,23 @@
+---
+title: "About"
+---
+
+## About This Project
+
+This project explores how different study schedules affect learning experience and performance using Duolingo data.
+
+It is based on an 8-week learning-log study analyzing:
+
+- Study sessions  
+- Lessons completed  
+- XP (experience points)  
+- Weekly engagement patterns  
+
+
+## Why This Matters
+
+Language-learning apps often promote daily use, but the effectiveness of different study schedules is not always clear.
+
+This project aims to provide a clearer, data-based perspective.
+
+## Reference

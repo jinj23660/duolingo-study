@@ -1,0 +1,18 @@
+/* 信息说明（保持蓝色） */
+.highlight {
+  background-color: #eef4ff;
+  padding: 18px 22px;
+  border-radius: 10px;
+  margin: 25px 0;
+  border-left: 5px solid #2E86DE;
+}
+
+/* ⚠️ warning（改成黄色） */
+.callout {
+  background-color: #fff8e6;
+  padding: 20px;
+  border-radius: 10px;
+  margin: 30px 0;
+  border-left: 6px solid #f5a623;
+  font-size: 18px;
+}
