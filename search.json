@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This project explores how different study schedules affect learning experience and performance using Duolingo data.\nIt is based on an 8-week learning-log study analyzing:\n\nStudy sessions\n\nLessons completed\n\nXP (experience points)\n\nWeekly engagement patterns"
+  },
+  {
+    "objectID": "about.html#about-this-project",
+    "href": "about.html#about-this-project",
+    "title": "About",
+    "section": "",
+    "text": "This project explores how different study schedules affect learning experience and performance using Duolingo data.\nIt is based on an 8-week learning-log study analyzing:\n\nStudy sessions\n\nLessons completed\n\nXP (experience points)\n\nWeekly engagement patterns"
+  },
+  {
+    "objectID": "about.html#why-this-matters",
+    "href": "about.html#why-this-matters",
+    "title": "About",
+    "section": "Why This Matters",
+    "text": "Why This Matters\nLanguage-learning apps often promote daily use, but the effectiveness of different study schedules is not always clear.\nThis project aims to provide a clearer, data-based perspective."
+  },
+  {
+    "objectID": "about.html#reference",
+    "href": "about.html#reference",
+    "title": "About",
+    "section": "Reference",
+    "text": "Reference"
+  },
+  {
+    "objectID": "results.html",
+    "href": "results.html",
+    "title": "Results",
+    "section": "",
+    "text": "The schedules worked differently in practice.\n\n\nThe spaced group studied more frequently\n\n\nThe massed group logged more total study time\n\n\n\nBecause total study time was not perfectly balanced, the results should be interpreted as descriptive patterns, not a strict test of spacing alone."
+  },
+  {
+    "objectID": "results.html#what-actually-happened",
+    "href": "results.html#what-actually-happened",
+    "title": "Results",
+    "section": "",
+    "text": "The schedules worked differently in practice.\n\n\nThe spaced group studied more frequently\n\n\nThe massed group logged more total study time\n\n\n\nBecause total study time was not perfectly balanced, the results should be interpreted as descriptive patterns, not a strict test of spacing alone."
+  },
+  {
+    "objectID": "results.html#xp-results",
+    "href": "results.html#xp-results",
+    "title": "Results",
+    "section": "XP Results",
+    "text": "XP Results\nXP told two different stories.\n\n\nMassed shows higher XP per session\n\n\nSpaced shows higher XP per minute\n\n\n\nXP reflects app activity, not language proficiency."
+  },
+  {
+    "objectID": "results.html#weekly-engagement",
+    "href": "results.html#weekly-engagement",
+    "title": "Results",
+    "section": "Weekly Engagement",
+    "text": "Weekly Engagement\nStudy behavior changed over time.\n\nA good study routine needs to be sustainable, not just effective on a single day."
+  },
+  {
+    "objectID": "results.html#test-results",
+    "href": "results.html#test-results",
+    "title": "Results",
+    "section": "Test Results",
+    "text": "Test Results\nParticipants completed a Swedish proficiency test with four sections:\n\nGrammar I\n\nGrammar II\n\nVocabulary\n\nReading\n\n\nOverall\n\nHighest performance: Reading (57.2%)\nOverall mean: 49.3%\n\n\n\nBy Group\n\n\nThe spaced group outperformed the massed group across all dimensions\n\n\nThe advantage was especially strong in vocabulary"
+  },
+  {
+    "objectID": "results.html#summary",
+    "href": "results.html#summary",
+    "title": "Results",
+    "section": "Summary",
+    "text": "Summary\n\nSpaced learning showed a consistent advantage\n\nThe largest effect appeared in vocabulary\n\nResults are descriptive, with individual differences\n\n\n Key Take Away:\n\n\nStudy frequency matters\n\n\nLonger sessions produce more XP per session\n\n\nXP is not the same as learning\n\n\nMultiple metrics give a better picture\n\n\nShort repeated practice may support vocabulary learning"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Why Daily Practice Works Better",
+    "section": "",
+    "text": "Language-learning apps often encourage daily practice with streaks and reminders. But if two learners spend the same amount of time each week, does it matter how that time is distributed?\nThis project explores that question using an 8-week Duolingo learning study."
+  },
+  {
+    "objectID": "index.html#is-a-little-bit-every-day-really-better-than-a-lot-at-once",
+    "href": "index.html#is-a-little-bit-every-day-really-better-than-a-lot-at-once",
+    "title": "Why Daily Practice Works Better",
+    "section": "",
+    "text": "Language-learning apps often encourage daily practice with streaks and reminders. But if two learners spend the same amount of time each week, does it matter how that time is distributed?\nThis project explores that question using an 8-week Duolingo learning study."
+  },
+  {
+    "objectID": "index.html#same-study-time-different-routines",
+    "href": "index.html#same-study-time-different-routines",
+    "title": "Why Daily Practice Works Better",
+    "section": "Same Study Time, Different Routines",
+    "text": "Same Study Time, Different Routines\nWe compared two study schedules:\n\nSpaced practice: 7 sessions × 10 minutes\n\nMassed practice: 2 sessions × 35 minutes\n\n\nBoth groups aimed for 70 minutes per week, but distributed differently."
+  },
+  {
+    "objectID": "index.html#what-do-these-duolingo-terms-mean",
+    "href": "index.html#what-do-these-duolingo-terms-mean",
+    "title": "Why Daily Practice Works Better",
+    "section": "What Do These Duolingo Terms Mean?",
+    "text": "What Do These Duolingo Terms Mean?\nSession\nA study period recorded in the learning log.\nLesson\nA completed Duolingo activity.\nXP\nExperience points reflecting in-app activity.\nStreak\nConsecutive days of completing lessons.\nLeaderboard\nRanking system based on XP."
+  },
+  {
+    "objectID": "index.html#swedish-course-structure",
+    "href": "index.html#swedish-course-structure",
+    "title": "Why Daily Practice Works Better",
+    "section": "Swedish Course Structure",
+    "text": "Swedish Course Structure\nThe Swedish course contains 4 sections and 85 units, ranging from introductory content to A2-level material.\n👉 Go to Results to see what actually happened."
+  }
+]
