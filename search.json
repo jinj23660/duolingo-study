@@ -60,54 +60,61 @@
     "href": "results.html#how-study-style-affects-your-learning-experience",
     "title": "Results",
     "section": "How Study Style Affects Your Learning Experience？",
-    "text": "How Study Style Affects Your Learning Experience？\n\n\nThe spaced group consistently report a better overall learning experience than the massed group\n\n\nLearners report higher concentration, confidence, enjoyment, and motivation, while also perceiving lower difficulty."
+    "text": "How Study Style Affects Your Learning Experience？\n\n\nThe spaced group consistently report a better overall learning experience than the massed group\n\n\nTo be more specific, the spaced group showed higher concentration, confidence, enjoyment and motivation, while the massed group felt slightly less difficulty."
+  },
+  {
+    "objectID": "results.html#what-learners-actually-felt",
+    "href": "results.html#what-learners-actually-felt",
+    "title": "Results",
+    "section": "What Learners Actually Felt",
+    "text": "What Learners Actually Felt\nNumbers show patterns, but learners’ reflections reveal what was really happening.\n\n\nMore app issues were reported in the massed group\n\n\nLearners mentioned confusion with pronunciation, grammar, and memory\n\n\nRepetition helped learning, but could also feel frustrating\n\n\nStudying in longer sessions may increase pressure and make app issues more noticeable, while daily practice feels more manageable and consistent.\n\n“I still can’t tell the difference between läng and ung in listening.”\n“I learned fru and man which means husband and wife respectively.”\n“Today’s lessons are kind of difficult because I needed to memorize all the words I encountered before.”"
   },
   {
     "objectID": "results.html#test-results",
     "href": "results.html#test-results",
     "title": "Results",
     "section": "Test Results",
-    "text": "Test Results\nParticipants completed a Swedish proficiency test with four sections:\n\nGrammar I\n\nGrammar II\n\nVocabulary\n\nReading\n\n\nOverall\n\nHighest performance: Reading (57.2%)\nOverall mean: 49.3%\n\n\n\nBy Group\n\n\nThe spaced group outperformed the massed group across all dimensions\n\n\nThe advantage was especially strong in vocabulary"
+    "text": "Test Results\nParticipants completed a Swedish proficiency test with four sections:\n\n Grammar I \n Grammar II \n Vocabulary \n Reading \n\n\nOverall\n Highest performance: Reading 57.2% \n Overall Mean 49.3% \n\n\nBy Group\n\n\nThe spaced group outperformed the massed group across all dimensions\n\n\nThe advantage was especially strong in vocabulary"
   },
   {
     "objectID": "results.html#summary",
     "href": "results.html#summary",
     "title": "Results",
     "section": "Summary",
-    "text": "Summary\n\nSpaced learning showed a consistent advantage\n\nThe largest effect appeared in vocabulary\n\nResults are descriptive, with individual differences\n\n\n Key Take Away:\n\n\nStudy frequency matters\n\n\nLonger sessions produce more XP per session\n\n\nXP is not the same as learning\n\n\nMultiple metrics give a better picture\n\n\nShort repeated practice may support vocabulary learning"
+    "text": "Summary\n\nSpaced learning showed a consistent advantage\n\nThe largest effect appeared in vocabulary\n\nResults are descriptive, with individual differences\n\n\n Key Take Away:\n\n\nStudy frequency matters\n\n\nLonger sessions produce more XP per session\n\n\nXP is not the same as learning\n\n\nMultiple metrics give a better picture\n\n\nShort repeated practice may support vocabulary learning\n\n\nLearning in Duolingo is a mix of support and confusion"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Why Daily Practice Works Better",
+    "title": "Why Daily Learning Works Better",
     "section": "",
-    "text": "Language-learning apps often encourage daily practice with streaks and reminders. But if two learners spend the same amount of time each week, does it matter how that time is distributed?\nThis project explores that question using an 8-week Duolingo learning study."
+    "text": "📈 Data project • 8-week learning study"
   },
   {
-    "objectID": "index.html#is-a-little-bit-every-day-really-better-than-a-lot-at-once",
-    "href": "index.html#is-a-little-bit-every-day-really-better-than-a-lot-at-once",
-    "title": "Why Daily Practice Works Better",
-    "section": "",
-    "text": "Language-learning apps often encourage daily practice with streaks and reminders. But if two learners spend the same amount of time each week, does it matter how that time is distributed?\nThis project explores that question using an 8-week Duolingo learning study."
+    "objectID": "index.html#does-studying-a-little-every-day-really-work",
+    "href": "index.html#does-studying-a-little-every-day-really-work",
+    "title": "Why Daily Learning Works Better",
+    "section": "Does studying a little every day really work?",
+    "text": "Does studying a little every day really work?\nLanguage-learning apps often encourage daily practice with streaks and reminders. But if two learners spend the same amount of time each week, does it matter how that time is distributed?\nThis project explores that question using an 8-week Duolingo learning study."
   },
   {
     "objectID": "index.html#same-study-time-different-routines",
     "href": "index.html#same-study-time-different-routines",
-    "title": "Why Daily Practice Works Better",
+    "title": "Why Daily Learning Works Better",
     "section": "Same Study Time, Different Routines",
-    "text": "Same Study Time, Different Routines\nWe compared two study schedules:\n\nSpaced practice: 7 sessions × 10 minutes\n\nMassed practice: 2 sessions × 35 minutes\n\n\nBoth groups aimed for 70 minutes per week, but distributed differently."
+    "text": "Same Study Time, Different Routines\nWe compared two study schedules:\n\n\n\n\n\n\n\n\nSpaced practice\n\n\n7 sessions × 10 minutes\n\n\nShort & frequent sessions\n\n\n\n\n\n\n\n\n\n\nMassed practice\n\n\n2 sessions × 35 minutes\n\n\nLonger & fewer sessions\n\n\n\n\n\nBoth groups aimed for ~70 minutes per week, but distributed differently."
   },
   {
     "objectID": "index.html#what-do-these-duolingo-terms-mean",
     "href": "index.html#what-do-these-duolingo-terms-mean",
-    "title": "Why Daily Practice Works Better",
+    "title": "Why Daily Learning Works Better",
     "section": "What Do These Duolingo Terms Mean?",
     "text": "What Do These Duolingo Terms Mean?\nSession\nA study period recorded in the learning log.\nLesson\nA completed Duolingo activity.\nXP\nExperience points reflecting in-app activity.\nStreak\nConsecutive days of completing lessons.\nLeaderboard\nRanking system based on XP."
   },
   {
     "objectID": "index.html#swedish-course-structure",
     "href": "index.html#swedish-course-structure",
-    "title": "Why Daily Practice Works Better",
+    "title": "Why Daily Learning Works Better",
     "section": "Swedish Course Structure",
     "text": "Swedish Course Structure\nThe Swedish course contains 4 sections and 85 units, ranging from introductory content to A2-level material.\n👉 Go to Results to see what actually happened."
   }
