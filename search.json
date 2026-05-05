@@ -1,31 +1,52 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "reflections.html",
+    "href": "reflections.html",
+    "title": "Learner reflections",
     "section": "",
-    "text": "This project explores how different study schedules affect learning experience and performance using Duolingo data.\nIt is based on an 8-week learning-log study analyzing:\n\nStudy sessions\n\nLessons completed\n\nXP (experience points)\n\nWeekly engagement patterns"
+    "text": "Beyond the numbers, the personal experiences of our participants provide a deeper understanding of how study habits shape the journey of learning Swedish.\n\n\n\n  \n  \n    \n      👤\n      Participant A\n    \n    “”\n    \n      \n        At first, Duolingo felt fun and easy to start. However, over time,\n        the lessons sometimes felt random, and I did not always understand\n        the structure behind the language.\n      \n      \n        Overall, it is useful for practice, but not enough for learners who\n        want a more systematic understanding.\n      \n    \n  \n\n  \n  \n    \n      👤\n      Participant B\n    \n    “”\n    \n      \n        Learning in Duolingo is a mix of benefits and confusion. While it\n        is engaging, it lacks explicit rules for grammar and pronunciation.\n      \n      \n        Ads can interrupt the learning experience and reduce focus.\n      \n      \n        It is helpful for building habits, but it cannot replace a real class.\n      \n    \n  \n\n  \n  \n    \n      👤\n      Participant C\n    \n    “”\n    \n      \n        My first experience with Duolingo was positive. A 35-minute session\n        felt manageable, but ads appearing after about 10 minutes were distracting.\n      \n      \n        I would recommend it for beginners, but long-term improvement\n        requires combining it with other resources.\n      \n    \n  \n\n  \n  \n    \n      👤\n      Participant D\n    \n    “”\n    \n      \n        I was surprised by how important practice frequency is. Even with\n        the same study time, practicing more often led to better results.\n      \n      \n        Learning is not just about time, but about the experience of using the app.\n      \n    \n  \n\n  \n  \n    \n      👤\n      Participant E\n    \n    “”\n    \n      \n        This project showed me that how you organize learning time matters\n        more than how much time you spend.\n      \n      \n        The spaced group had a more enjoyable experience and better results.\n      \n      \n        Consistency and strategy are more effective than long study sessions."
   },
   {
-    "objectID": "about.html#about-this-project",
-    "href": "about.html#about-this-project",
-    "title": "About",
+    "objectID": "reflections.html#voices-from-the-study",
+    "href": "reflections.html#voices-from-the-study",
+    "title": "Learner reflections",
     "section": "",
-    "text": "This project explores how different study schedules affect learning experience and performance using Duolingo data.\nIt is based on an 8-week learning-log study analyzing:\n\nStudy sessions\n\nLessons completed\n\nXP (experience points)\n\nWeekly engagement patterns"
+    "text": "Beyond the numbers, the personal experiences of our participants provide a deeper understanding of how study habits shape the journey of learning Swedish.\n\n\n\n  \n  \n    \n      👤\n      Participant A\n    \n    “”\n    \n      \n        At first, Duolingo felt fun and easy to start. However, over time,\n        the lessons sometimes felt random, and I did not always understand\n        the structure behind the language.\n      \n      \n        Overall, it is useful for practice, but not enough for learners who\n        want a more systematic understanding.\n      \n    \n  \n\n  \n  \n    \n      👤\n      Participant B\n    \n    “”\n    \n      \n        Learning in Duolingo is a mix of benefits and confusion. While it\n        is engaging, it lacks explicit rules for grammar and pronunciation.\n      \n      \n        Ads can interrupt the learning experience and reduce focus.\n      \n      \n        It is helpful for building habits, but it cannot replace a real class.\n      \n    \n  \n\n  \n  \n    \n      👤\n      Participant C\n    \n    “”\n    \n      \n        My first experience with Duolingo was positive. A 35-minute session\n        felt manageable, but ads appearing after about 10 minutes were distracting.\n      \n      \n        I would recommend it for beginners, but long-term improvement\n        requires combining it with other resources.\n      \n    \n  \n\n  \n  \n    \n      👤\n      Participant D\n    \n    “”\n    \n      \n        I was surprised by how important practice frequency is. Even with\n        the same study time, practicing more often led to better results.\n      \n      \n        Learning is not just about time, but about the experience of using the app.\n      \n    \n  \n\n  \n  \n    \n      👤\n      Participant E\n    \n    “”\n    \n      \n        This project showed me that how you organize learning time matters\n        more than how much time you spend.\n      \n      \n        The spaced group had a more enjoyable experience and better results.\n      \n      \n        Consistency and strategy are more effective than long study sessions."
   },
   {
-    "objectID": "about.html#why-this-matters",
-    "href": "about.html#why-this-matters",
-    "title": "About",
-    "section": "Why This Matters",
-    "text": "Why This Matters\nLanguage-learning apps often promote daily use, but the effectiveness of different study schedules is not always clear.\nThis project aims to provide a clearer, data-based perspective."
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Why Daily Learning Works Better",
+    "section": "",
+    "text": "📈 Data project • 8-week learning study"
   },
   {
-    "objectID": "about.html#reference",
-    "href": "about.html#reference",
-    "title": "About",
-    "section": "Reference",
-    "text": "Reference\nDuolingo. (n.d.). What is a streak? Duolingo Help Center. Retrieved April 28, 2026, from https://www.duolingo.com/help/what-is-a-streak\nDuolingo. (n.d.). What are leaderboards and leagues? Duolingo Help Center. Retrieved April 28, 2026, from https://www.duolingo.com/help/leaderboards-and-league\nDuolingo. (2024, December 2). How to use Duolingo for language learning. Duolingo Blog. https://blog.duolingo.com/duolingo-101-how-to-learn-a-language-on-duolingo/\nDuolingo. (2024, June 13). Understanding Duolingo’s Time Spent Learning Well metric. Duolingo Blog. https://blog.duolingo.com/time-spent-learning-well/\nKessler, M., Loewen, S., & Gönülal, T. (2025). Mobile-assisted language learning with Babbel and Duolingo: Comparing L2 learning gains and user experience. Computer Assisted Language Learning, 38(4), 690–714. https://doi.org/10.1080/09588221.2023.2215294"
+    "objectID": "index.html#does-studying-a-little-every-day-really-work",
+    "href": "index.html#does-studying-a-little-every-day-really-work",
+    "title": "Why Daily Learning Works Better",
+    "section": "Does studying a little every day really work?",
+    "text": "Does studying a little every day really work?\nLanguage-learning apps often encourage daily practice with streaks and reminders. But if two learners spend the same amount of time each week, does it matter how that time is distributed?\nThis project explores that question using an 8-week Duolingo learning study."
+  },
+  {
+    "objectID": "index.html#same-study-time-different-routines",
+    "href": "index.html#same-study-time-different-routines",
+    "title": "Why Daily Learning Works Better",
+    "section": "Same Study Time, Different Routines",
+    "text": "Same Study Time, Different Routines\nWe compared two study schedules:\n\n\n\n\n\n\n\n\nSpaced practice\n\n\n7 sessions × 10 minutes\n\n\nShort & frequent sessions\n\n\n\n\n\n\n\n\n\n\nMassed practice\n\n\n2 sessions × 35 minutes\n\n\nLonger & fewer sessions\n\n\n\n\n\nBoth groups aimed for ~70 minutes per week, but distributed differently."
+  },
+  {
+    "objectID": "index.html#what-do-these-duolingo-terms-mean",
+    "href": "index.html#what-do-these-duolingo-terms-mean",
+    "title": "Why Daily Learning Works Better",
+    "section": "What Do These Duolingo Terms Mean?",
+    "text": "What Do These Duolingo Terms Mean?\nSession\nA study period recorded in the learning log.\nLesson\nA completed Duolingo activity.\nXP\nExperience points reflecting in-app activity.\nStreak\nConsecutive days of completing lessons.\nLeaderboard\nRanking system based on XP."
+  },
+  {
+    "objectID": "index.html#swedish-course-structure",
+    "href": "index.html#swedish-course-structure",
+    "title": "Why Daily Learning Works Better",
+    "section": "Swedish Course Structure",
+    "text": "Swedish Course Structure\nThe Swedish course contains 4 sections and 85 units, ranging from introductory content to A2-level material.\n👉 Go to Results to see what actually happened."
   },
   {
     "objectID": "results.html",
@@ -84,38 +105,31 @@
     "text": "Summary\n\nSpaced learning showed a consistent advantage\n\nThe largest effect appeared in vocabulary\n\nResults are descriptive, with individual differences\n\n\n Key Takeaways:\n\n\nStudy frequency matters\n\n\nLonger sessions produce more XP per session\n\n\nXP is not the same as learning\n\n\nMultiple metrics give a better picture\n\n\nShort repeated practice may support vocabulary learning\n\n\nLearning in Duolingo is a mix of support and confusion"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Why Daily Learning Works Better",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "📈 Data project • 8-week learning study"
+    "text": "This project explores how different study schedules affect learning experience and performance using Duolingo data.\nIt is based on an 8-week learning-log study analyzing:\n\nStudy sessions\n\nLessons completed\n\nXP (experience points)\n\nWeekly engagement patterns"
   },
   {
-    "objectID": "index.html#does-studying-a-little-every-day-really-work",
-    "href": "index.html#does-studying-a-little-every-day-really-work",
-    "title": "Why Daily Learning Works Better",
-    "section": "Does studying a little every day really work?",
-    "text": "Does studying a little every day really work?\nLanguage-learning apps often encourage daily practice with streaks and reminders. But if two learners spend the same amount of time each week, does it matter how that time is distributed?\nThis project explores that question using an 8-week Duolingo learning study."
+    "objectID": "about.html#about-this-project",
+    "href": "about.html#about-this-project",
+    "title": "About",
+    "section": "",
+    "text": "This project explores how different study schedules affect learning experience and performance using Duolingo data.\nIt is based on an 8-week learning-log study analyzing:\n\nStudy sessions\n\nLessons completed\n\nXP (experience points)\n\nWeekly engagement patterns"
   },
   {
-    "objectID": "index.html#same-study-time-different-routines",
-    "href": "index.html#same-study-time-different-routines",
-    "title": "Why Daily Learning Works Better",
-    "section": "Same Study Time, Different Routines",
-    "text": "Same Study Time, Different Routines\nWe compared two study schedules:\n\n\n\n\n\n\n\n\nSpaced practice\n\n\n7 sessions × 10 minutes\n\n\nShort & frequent sessions\n\n\n\n\n\n\n\n\n\n\nMassed practice\n\n\n2 sessions × 35 minutes\n\n\nLonger & fewer sessions\n\n\n\n\n\nBoth groups aimed for ~70 minutes per week, but distributed differently."
+    "objectID": "about.html#why-this-matters",
+    "href": "about.html#why-this-matters",
+    "title": "About",
+    "section": "Why This Matters",
+    "text": "Why This Matters\nLanguage-learning apps often promote daily use, but the effectiveness of different study schedules is not always clear.\nThis project aims to provide a clearer, data-based perspective."
   },
   {
-    "objectID": "index.html#what-do-these-duolingo-terms-mean",
-    "href": "index.html#what-do-these-duolingo-terms-mean",
-    "title": "Why Daily Learning Works Better",
-    "section": "What Do These Duolingo Terms Mean?",
-    "text": "What Do These Duolingo Terms Mean?\nSession\nA study period recorded in the learning log.\nLesson\nA completed Duolingo activity.\nXP\nExperience points reflecting in-app activity.\nStreak\nConsecutive days of completing lessons.\nLeaderboard\nRanking system based on XP."
-  },
-  {
-    "objectID": "index.html#swedish-course-structure",
-    "href": "index.html#swedish-course-structure",
-    "title": "Why Daily Learning Works Better",
-    "section": "Swedish Course Structure",
-    "text": "Swedish Course Structure\nThe Swedish course contains 4 sections and 85 units, ranging from introductory content to A2-level material.\n👉 Go to Results to see what actually happened."
+    "objectID": "about.html#reference",
+    "href": "about.html#reference",
+    "title": "About",
+    "section": "Reference",
+    "text": "Reference\nDuolingo. (n.d.). What is a streak? Duolingo Help Center. Retrieved April 28, 2026, from https://www.duolingo.com/help/what-is-a-streak\nDuolingo. (n.d.). What are leaderboards and leagues? Duolingo Help Center. Retrieved April 28, 2026, from https://www.duolingo.com/help/leaderboards-and-league\nDuolingo. (2024, December 2). How to use Duolingo for language learning. Duolingo Blog. https://blog.duolingo.com/duolingo-101-how-to-learn-a-language-on-duolingo/\nDuolingo. (2024, June 13). Understanding Duolingo’s Time Spent Learning Well metric. Duolingo Blog. https://blog.duolingo.com/time-spent-learning-well/\nKessler, M., Loewen, S., & Gönülal, T. (2025). Mobile-assisted language learning with Babbel and Duolingo: Comparing L2 learning gains and user experience. Computer Assisted Language Learning, 38(4), 690–714. https://doi.org/10.1080/09588221.2023.2215294"
   }
 ]
