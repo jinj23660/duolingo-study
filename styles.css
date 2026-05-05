@@ -75,7 +75,9 @@
 }
 
 /* 最后一张居中 */
-.reflection-card:last-child {
+.reflection-card:nth-last-child(-n+2) {
+  grid-column: 1 / span 2;
+}
   grid-column: 1 / span 2;
 }
 
